@@ -1,16 +1,17 @@
-# stopwatch_flutter
+# FLutter Stopwatch | Guru Koding
 
-A new Flutter project.
+Repo ini berisi kode yang digunakan dalam membuat aplikasi Stopwatch sederhana
 
-## Getting Started
+![StopwatchOne!](assets/github_images/image_one.png)
 
-This project is a starting point for a Flutter application.
+![StopwatchTwo!](assets/github_images/image_two.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Feature yang di implementasikan
+1. Ticker
+2. Widget Transform
+3. State Management Basic (setState)
+4. Reusable Widget
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### [LICENSE: MIT](LICENSE)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
